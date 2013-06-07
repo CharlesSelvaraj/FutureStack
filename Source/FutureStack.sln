@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureStack.Repositories", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureStack.DomainModel", "FutureStack.DomainModel\FutureStack.DomainModel.csproj", "{C10654E8-9CC4-4F08-A406-026F7F2070B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureStack.DataAccess.DBCreator", "FutureStack.DataAccess.DBCreator\FutureStack.DataAccess.DBCreator.csproj", "{1FDFEFA6-887D-42D6-AEFE-91574774441C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureStack.DataAccess.DBGenerator", "FutureStack.DataAccess.DBCreator\FutureStack.DataAccess.DBGenerator.csproj", "{1FDFEFA6-887D-42D6-AEFE-91574774441C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
